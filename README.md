@@ -1,4 +1,3 @@
-# assignment_quicksell_yatender
 Name: Yatender Kumar
 Email: yatender.ug20@nsut.ac.in
 
